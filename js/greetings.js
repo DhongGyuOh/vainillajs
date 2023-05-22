@@ -22,5 +22,3 @@ if (LocalUserName === null) {
 } else {
   paintGreetings();
 }
-
-localStorage.removeItem(USERNAME_KEY);
